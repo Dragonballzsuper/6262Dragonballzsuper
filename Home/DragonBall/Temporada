@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channels>
+<channel>
+<name>Temporada 1</name>
+<thumbnail>https://i.ibb.co/C86vysN/Filmes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/AnoDosFilmes</externallink>
+<fanart>https://i.ibb.co/dGynRHh/fanart.jpg</fanart>
+<info>O Melhor Conteudo de Filmes</info>
+</channel>
+
+</channels>
