@@ -4,7 +4,7 @@
 <channels>
 <channels>
 <channel>
-<name>Filmes</name>
+<name>Dragon Ball</name>
 <thumbnail>https://i.ibb.co/C86vysN/Filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/AnoDosFilmes</externallink>
 <fanart>https://i.ibb.co/dGynRHh/fanart.jpg</fanart>
@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>Series</name>
+<name>Dragon Ball Z</name>
 <thumbnail>https://i.ibb.co/JcB4c2f/Series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Series/SeriesEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/dGynRHh/fanart.jpg</fanart>
@@ -22,7 +22,7 @@
 
 <channels>
 <channel>
-<name>Desenhos</name>
+<name>Dragon GT</name>
 <thumbnail>https://i.ibb.co/r48GLp4/Desenhos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Desenhos/DesenhosEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/dGynRHh/fanart.jpg</fanart>
@@ -31,20 +31,11 @@
 
 <channels>
 <channel>
-<name>Animes</name>
+<name>Dragon Ball Super</name>
 <thumbnail>https://i.ibb.co/tY9Zqnk/Animes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Animes/AnimesEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/dGynRHh/fanart.jpg</fanart>
 <info>O Melhor Conteudo de Animes</info>
-</channel>
-
-<channels>
-<channel>
-<name>Doramas</name>
-<thumbnail>https://i.ibb.co/84TSRgy/Doramas.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://i.ibb.co/dGynRHh/fanart.jpg</fanart>
-<info>O Melhor Conteudo de Doramas</info>
 </channel>
 
 </channels>
